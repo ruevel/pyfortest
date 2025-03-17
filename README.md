@@ -1,3 +1,3 @@
 # pyfortest
 
-*'python lab1.py'* to run
+*python lab1.py* to run
